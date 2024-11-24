@@ -1,2 +1,3 @@
 # Knulli Bootlogo
-Alternative Knulli bootlogo
+
+Just an alternative Knulli bootlogo.
