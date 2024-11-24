@@ -1,2 +1,2 @@
-# knulli-bootlogo
+# Knulli Bootlogo
 Alternative Knulli bootlogo
